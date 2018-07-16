@@ -1,0 +1,6 @@
+[package]
+name = "p048"
+version = "0.1.0"
+authors = ["Hideki Sogabe <hideki.sogabe@jp.ricoh.com>"]
+
+[dependencies]

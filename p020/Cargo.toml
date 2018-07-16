@@ -1,0 +1,6 @@
+[package]
+name = "p020"
+version = "0.1.0"
+authors = ["Hideki Sogabe <hideki.sogabe@nts.ricoh.co.jp>"]
+
+[dependencies]

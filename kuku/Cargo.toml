@@ -1,0 +1,6 @@
+[package]
+name = "kuku"
+version = "0.1.0"
+authors = ["hides"]
+
+[dependencies]
